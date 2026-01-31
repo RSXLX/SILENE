@@ -1,3 +1,11 @@
+# Environment variables (SENSITIVE - NEVER COMMIT!)
+.env
+.env.local
+.env.*.local
+*.env
+backend/.env
+frontend/.env
+
 # Logs
 logs
 *.log
